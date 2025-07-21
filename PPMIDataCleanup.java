@@ -21,10 +21,10 @@ import java.util.Map;
  */
 public class PPMIDataCleanup {
 	
-	public static final String INPUT_FILE  = "/Users/ajayapte/ajay/aarya/PD/PPMI_Curated_Data.csv";
-	public static final String OUTPUT_FILE  = "/Users/ajayapte/ajay/aarya/PD/PPMI_Clean_Curated_Data.csv";
-	public static final String OUTPUT_FILE_1_234  = "/Users/ajayapte/ajay/aarya/PD/PPMI_Clean_1_234_Curated_Data.csv";
-	public static final String OUTPUT_FILE_ALL_plus123  = "/Users/ajayapte/ajay/aarya/PD/PPMI_Clean_allN_plus123_Curated_Data.csv";
+	public static final String INPUT_FILE  = "/Users/aaryaapte/aarya/PD/PPMI_Curated_Data.csv";
+	public static final String OUTPUT_FILE  = "/Users/aaryaapte/aarya/PD/PPMI_Clean_Curated_Data.csv";
+	public static final String OUTPUT_FILE_1_234  = "/Users/aaryaapte/aarya/PD/PPMI_Clean_1_234_Curated_Data.csv";
+	public static final String OUTPUT_FILE_ALL_plus123  = "/Users/aaryaapte/aarya/PD/PPMI_Clean_allN_plus123_Curated_Data.csv";
 	public static final int MIN_VISIT_1_234 = 4;
 	
 	public static final String COHORT_SUBGROUP_COL = "subgroup";
